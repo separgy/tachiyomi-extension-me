@@ -102,6 +102,78 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaCloud",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangacloud",
+    "apk": "tachiyomi-en.mangacloud-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaCloud",
+        "lang": "en",
+        "id": "8787213233662904706",
+        "baseUrl": "https://mangacloud.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Demon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
+    "apk": "tachiyomi-en.mangademon-v1.4.17.apk",
+    "lang": "en",
+    "code": 17,
+    "version": "1.4.17",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Demon",
+        "lang": "en",
+        "id": "2900023289777642714",
+        "baseUrl": "https://demonicscans.org",
+        "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaDia",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangadia",
+    "apk": "tachiyomi-en.mangadia-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaDia",
+        "lang": "en",
+        "id": "408151224123746617",
+        "baseUrl": "https://mangadia.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaMob",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangamob",
+    "apk": "tachiyomi-en.mangamob-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaMob",
+        "lang": "en",
+        "id": "954997815643613941",
+        "baseUrl": "https://mangamob.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
     "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
