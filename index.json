@@ -68,23 +68,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Flame Comics",
-    "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.44.apk",
-    "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Flame Comics",
-        "lang": "en",
-        "id": "8531542650987673943",
-        "baseUrl": "https://flamecomics.xyz"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Kun Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.kunmanga",
     "apk": "tachiyomi-en.kunmanga-v1.4.45.apk",
