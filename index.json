@@ -157,6 +157,40 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaTaro",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangataro",
+    "apk": "tachiyomi-all.mangataro-v1.4.10.apk",
+    "lang": "all",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaTaro",
+        "lang": "en",
+        "id": "8358097306709528603",
+        "baseUrl": "https://mangataro.org",
+        "versionId": 1
+  },
+  {
+    "name": "Tachiyomi: Project Suki",
+    "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
+    "apk": "tachiyomi-all.projectsuki-v1.4.6.apk",
+    "lang": "all",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Project Suki",
+        "lang": "all",
+        "id": "8965918600406781666",
+        "baseUrl": "https://projectsuki.com/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
     "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
