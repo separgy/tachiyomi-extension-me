@@ -114,9 +114,8 @@
         "name": "Weeb Central",
         "lang": "en",
         "id": "2131019126180322627",
-        "baseUrl": "https://weebcentral.com",
-        "versionId": 1
+        "baseUrl": "https://weebcentral.com"
       }
     ]
-  }
+  },
 ]
