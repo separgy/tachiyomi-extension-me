@@ -101,4 +101,21 @@
       }
     ]
   },
+  {
+    "name": "Tachiyomi: Weeb Central",
+    "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
+    "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Weeb Central",
+        "lang": "en",
+        "id": "2131019126180322627",
+        "baseUrl": "https://weebcentral.com",
+      }
+    ]
+  }
 ]
