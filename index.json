@@ -191,6 +191,40 @@
     ]
   },
   {
+    "name": "Tachiyomi: Yorai",
+    "pkg": "eu.kanade.tachiyomi.extension.en.yorai",
+    "apk": "tachiyomi-en.yorai-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Yorai",
+        "lang": "en",
+        "id": "2494862276381566773",
+        "baseUrl": "https://yorai.io"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Zinmanga.net",
+    "pkg": "eu.kanade.tachiyomi.extension.en.zinmanganet",
+    "apk": "tachiyomi-en.zinmanganet-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Zinmanga.net",
+        "lang": "en",
+        "id": "1987105317893699901",
+        "baseUrl": "https://zinmanga.net"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
     "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
