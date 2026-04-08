@@ -34,23 +34,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: AllManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
-    "apk": "tachiyomi-en.allanime-v1.4.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "AllManga",
-        "lang": "en",
-        "id": "4709139914729853090",
-        "baseUrl": "https://allmanga.to"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
     "apk": "tachiyomi-en.drakescans-v1.4.44.apk",
