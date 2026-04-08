@@ -191,42 +191,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Goda",
-    "pkg": "eu.kanade.tachiyomi.extension.en.goda",
-    "apk": "tachiyomi-en.goda-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Goda",
-        "lang": "en",
-        "id": "4273874799952447458",
-        "baseUrl": "https://manhuascans.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: S2Manga.io",
-    "pkg": "eu.kanade.tachiyomi.extension.en.jimanga",
-    "apk": "tachiyomi-en.jimanga-v1.4.46.apk",
-    "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "S2Manga.io",
-        "lang": "en",
-        "id": "4144734547277607826",
-        "baseUrl": "https://s2manga.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
     "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
