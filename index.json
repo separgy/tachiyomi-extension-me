@@ -191,36 +191,20 @@
     ]
   },
   {
-    "name": "Tachiyomi: Yorai",
-    "pkg": "eu.kanade.tachiyomi.extension.en.yorai",
-    "apk": "tachiyomi-en.yorai-v1.4.1.apk",
+    "name": "Tachiyomi: Goda",
+    "pkg": "eu.kanade.tachiyomi.extension.en.goda",
+    "apk": "tachiyomi-en.goda-v1.4.3.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
-        "name": "Yorai",
+        "name": "Goda",
         "lang": "en",
-        "id": "2494862276381566773",
-        "baseUrl": "https://yorai.io"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Zinmanga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.zinmanganet",
-    "apk": "tachiyomi-en.zinmanganet-v1.4.45.apk",
-    "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Zinmanga.net",
-        "lang": "en",
-        "id": "1987105317893699901",
-        "baseUrl": "https://zinmanga.net"
+        "id": "4273874799952447458",
+        "baseUrl": "https://manhuascans.org",
+        "versionId": 1
       }
     ]
   },
