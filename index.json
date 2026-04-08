@@ -191,6 +191,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nyx Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.nyxscans",
+    "apk": "tachiyomi-en.nyxscans-v1.4.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.4.20",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nyx Scans",
+        "lang": "en",
+        "id": "419822582289753882",
+        "baseUrl": "https://nyxscans.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
     "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
